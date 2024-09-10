@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "187749149627",
+    "project_id": "gp-notify",
+    "storage_bucket": "gp-notify.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187749149627:android:60d836017c27b2d1d8729e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_routinggp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqjdplAXI7agFROwMxlWBmPpHKwM5n3ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
